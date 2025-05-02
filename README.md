@@ -5,9 +5,6 @@ Jael Badillo Cruz
 
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L22210409@tectijuana.edu.mx
 
-## Objetivos general
-Diseñar un controlador que permita formular un protocolo de tratamiento para que un paciente
-con enfisema (caso) presente la misma presión alveolar que un individuo sano (control).
 ## Actividades
 1. Calcular analÌticamente la funciÛn de transferencia del sistema cardiovascular.
 2. Determinar el error en estado estacionario y la estabilidad del sistema en lazo abierto.
