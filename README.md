@@ -1,4 +1,4 @@
-# Modelado de Sistemas Fisiológicos. Práctica 2:Sistema Respiratorio [Badillo22210409]
+# Modelado de Sistemas Fisiológicos. Práctica 3:Sistema Cardiovascular [Badillo22210409]
 
 # Autor
 Jael Badillo Cruz
@@ -9,11 +9,14 @@ Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, T
 Diseñar un controlador que permita formular un protocolo de tratamiento para que un paciente
 con enfisema (caso) presente la misma presión alveolar que un individuo sano (control).
 ## Actividades
-1. Calcular analíticamente la función de transferencia del sistema.
-2. Establecer el modelo de ecuaciones integro-diferenciales.
-3. Determinar el error en estado estacionario y la estabilidad del sistema en lazo abierto.
-4. Diseñar el controlador con Simulink utilizando el bloque PID Controller y la herramienta Tune para sintonizar los valores óptimos para cada una de las ganancias kP, kI y kD.
-5. Determinar la respuesta  normal y anormal, en Python, Simulink y Multisim del circuito RLC.
+1. Calcular analÌticamente la funciÛn de transferencia del sistema cardiovascular.
+2. Determinar el error en estado estacionario y la estabilidad del sistema en lazo abierto.
+3. Construir el diagrama de bloques como se indica en el diagrama 5.8.
+4. DiseÒar el controlador con Simulink utilizando el bloque PID Controller y la herramientaTune para sintonizar los valores Ûptimos para cada una de las ganancias kP, kI y kD.
+5.  Ilustrar el cambio de la presión sobre la distensibilidad arterial [Pp(t)] en respuesta a la presión arterial de entrada Pa(t). Utilice la función de entrada Uniform Random Numbercon la siguiente configuración:mn =0:2V; max = 1 V; seed= 106; Sample time= 0:5
+6.  Determinar la respuesta a la función en el intervalo t2 [0;15] (segundos) en Python, Simulink y Multisim en lazo abierto y en lazo cerrado con el controlador.
+7.  Elaborar el diagrama biológico del sisttema con BioRender.com.
+8.  Discutir los resultados obtenidos en la experimentación silico y elaborar el reporte de la práctica.
 
 ## Docente
 Dr. Paul A. Valle
