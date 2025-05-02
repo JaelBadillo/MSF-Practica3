@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica 3: Sistema Cardiovascular'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jael
+    name-particle: Badillo Cruz
+    email: l22210409@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+  - given-names: Ashlaey Dyanna
+    name-particle: Panzzi Hernandez
+    email: l22210424@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+repository-code: >-
+  https://github.com/JaelBadillo/MSF-Practica3/blob/main/README.md
+keywords:
+  - '-Cardiovascular'
+  - '-Controlador PI'
+  - '-Sistema'
+  - Hipotenso
+  - Hipertenso
+  - Normotenso
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-05-02'
